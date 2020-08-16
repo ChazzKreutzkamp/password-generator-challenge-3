@@ -61,7 +61,8 @@ function generatePassword() {
   for (var i = 0; i < passwordLength; i++) {
     password += randomCharacterGenerator(canLowerCase, canUpperCase, canNumeric, canSymbol);
   }
-
+  
+  window.alert("Password has been generated based on you input.\nYour password is:\n\n" + password + "\n\nWhen you press the 'OK' button in this window your password will be transfered to the box above the 'Generate Password' button in the main window.");
   return password;
 };
 
