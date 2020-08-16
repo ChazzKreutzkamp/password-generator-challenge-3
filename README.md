@@ -1,13 +1,12 @@
 # Password Generator
-```
-# Project Summary
+## Project Summary
 ```
 This project's purpose was to create a password based on a users input.
 Said inputs are whether the user wants the password to include lowercase
 letters, uppercase letters, numbers, symbols, and how long a password they
 desire as long as it is between 8-128 characters.
 ```
-# How this was accomplished
+## How this was accomplished
 ```
 To obtain user data five prompts were utilized:
 
