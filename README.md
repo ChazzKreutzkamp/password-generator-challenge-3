@@ -16,7 +16,7 @@ To obtain user data five prompts were utilized:
 Error handling was handeled in two while loops:
   
   The first four prompts were stored in one while loop to confirm
-  confirm at least one option was selected.
+  at least one option was selected.
   
   The last prompt was in its own while loop to insure the user entered
   an integer value and whether or not they entered a value between 8-128.
